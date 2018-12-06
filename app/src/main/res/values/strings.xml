@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">홍제동성당</string>
+    <string name="activity_name"></string>
+
+    <string name="url">http://hongje.catholic.or.kr/bbs/app.php</string>
+    <string name="action_exit_question">정말 종료하시겠습니까?</string>
+    <string name="message_yes">예</string>
+    <string name="message_no">아니요</string>
+
+</resources>
